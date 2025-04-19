@@ -33,16 +33,13 @@ generate_report(Type, Budget, FinalVehicles, TotalValue):
 - Retorna la lista final y el valor total del inventario.
 
 ### Test Cases 
-- Caso 1:
-test_case1(Result).
+- Caso 1: test_case1(Result).
 % Retorna los Toyota SUVs debajo de $30,000.
 
-- Caso 2:
-test_case2(Grouped).
+- Caso 2: test_case2(Grouped).
 % Agrupa los Ford por tipo y año usando bagof/3.
 
-- Caso 3:
-test_case3(Result, Total).
+- Caso 3: test_case3(Result, Total).
 % Filtra los Sedan por debajo de $500.000 por unidad,
 % luego se ajusta para que el total no supere $1,000,000.
 
