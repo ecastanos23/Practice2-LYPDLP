@@ -56,8 +56,8 @@ test_case3(Result, Total).
 ?- test_case3(V, T).
 
 ## Equipo 
-Estudiante 1: Emmanuel Castaño Sepúlveda 
-Estudiante 2: Jerónimo Contreras 
+- Estudiante 1: Emmanuel Castaño Sepúlveda.
+- Estudiante 2: Jerónimo Contreras. 
 
 ## Video
 
