@@ -22,8 +22,8 @@ vehicle(Brand, Reference, Type, Price, Year).
 Al menos 10 vehiculos estan declarados a través de multiples tipos y marcas. 
 
 ### Consultas y filtros 
-meet_budget(Reference, BudgetMax): Revisa si el precio de un vehículo está dentro del presupuesto.
-list_by_brand(Brand, Reference): Obtiene una lista de referencias por marca. 
+- meet_budget(Reference, BudgetMax): Revisa si el precio de un vehículo está dentro del presupuesto.
+- list_by_brand(Brand, Reference): Obtiene una lista de referencias por marca. 
 
 ### Generar reporte 
 generate_report(Type, Budget, FinalVehicles, TotalValue):
