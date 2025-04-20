@@ -52,6 +52,9 @@ generate_report(Type, Budget, FinalVehicles, TotalValue):
 ?- test_case2(G).
 ?- test_case3(V, T).
 
+![image](https://github.com/user-attachments/assets/47c602a5-d178-433f-8822-cc4920040ded)
+
+
 ## Equipo 
 - Estudiante 1: Emmanuel Castaño Sepúlveda.
 - Estudiante 2: Jerónimo Contreras. 
